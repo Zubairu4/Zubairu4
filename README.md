@@ -1,20 +1,20 @@
-Hi 👋 My name is Ibrahim Auwal
+Hi 👋 My name is Zubairu Saidu
 ==============================
 
-Web Developer and Hacker
+Web Developer and Web Security Researcher
 ------------------------
 
-I've learning to code for 6 years, I have learnt HTML, CSS when around 2016, learnt Python in 2019, Web Hacking from 2022 to date, On my free time I learn PHP, Flask and JS.
+Over 5 years of experience in web dev.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [https://ibrahimauwal.com](http://ibrahimauwal.com)
-* ✉️  You can contact me at [ibrahimatix0x01@wearehackerone.com](mailto:ibrahimatix0x01@wearehackerone.com)
-* 🧠  I'm learning React JS
+* ✉️  You can contact me at [zubairudeveloper@gmail.com](mailto:zubairudeveloper@gmail.com)
+* 🧠  I learn every day.
 
-<a href="https://www.twitter.com/ibrahimatix0x01" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/zubairusaeed4" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ibrahimatix0x01?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/ibrahimatix0x01" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ibrahimatix0x01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+/></a><a href="https://www.github.com/zubairu4" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/zubairu4?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -31,15 +31,15 @@ src="https://img.shields.io/github/followers/ibrahimatix0x01?logo=github&style=f
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/ibrahinmatix0x01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/ibrahimatix0x01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/ibrahimatix0x01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ibrahimatix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ibrahimatix0x01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/ibrahimatix0x01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ibrahimatix0x01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/DuniyarFasaha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/zubairusaeed4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/ibrahimatix0x01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ibrahimatix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ibrahimatix0x01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="[http://www.medium.com/zubairu4](https://zubairu4.medium.com/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/zubairusaeed4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ibrahimatix0x01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimatix0x01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/zubairu4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimatix0x01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/ibrahimatix0x01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimatix0x01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/zubairu4" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairu4&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
