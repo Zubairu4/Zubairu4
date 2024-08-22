@@ -7,7 +7,7 @@ Web Developer and Web Security Researcher
 Over 5 years of experience in web dev.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [https://ibrahimauwal.com](http://ibrahimauwal.com)
+* 🖥️  See my portfolio at [https://zubairusaeed.com](http://zubairusaeeed.com)
 * ✉️  You can contact me at [zubairudeveloper@gmail.com](mailto:zubairudeveloper@gmail.com)
 * 🧠  I learn every day.
 
